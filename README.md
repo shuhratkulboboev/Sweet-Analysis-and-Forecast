@@ -76,7 +76,7 @@ The final part involves forecasting the monthly sales of a candy store using thr
 
 ### 2. Linear Regression
 #### Model:
-\[ Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \epsilon \]
+Y = w_0 + w_1 X_1 + w_2 X_2 + e
 
 - \( Y \): Popularity score
 - \( X_1 \): Calorie content
@@ -84,7 +84,7 @@ The final part involves forecasting the monthly sales of a candy store using thr
 
 #### Key Steps:
 1. **Point Estimation**:
-   - Estimated coefficients: \( \beta_0, \beta_1, \beta_2 \)
+   - Estimated coefficients: \( w_0, w_1, w_2 \)
    - Standardized coefficients calculated for interpretability.
 
 2. **Model Fit**:
