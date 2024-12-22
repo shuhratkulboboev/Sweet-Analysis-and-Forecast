@@ -95,7 +95,7 @@ Y = w_0 + w_1 X_1 + w_2 X_2 + e
    - Popularity prediction for \( X_1 = 450 \), \( X_2 = 30 \): \( Y = 7.5 \)
 
 4. **Diagnostics**:
-   - Multicollinearity: \( \text{VIF} < 5 \)
+   - Multicollinearity: VIF < 5 
    - Error term analysis satisfied assumptions of normality, independence, and homoscedasticity.
 
 ---
