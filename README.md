@@ -1,6 +1,6 @@
 # Sweets Analysis and Forecasting
 
-This repository contains a comprehensive statistical and machine learning analysis of datasets related to sweets. The project is divided into three parts: hypothesis testing, linear regression modeling, and time series forecasting.
+This repository contains a comprehensive statistical and machine learning analysis of datasets related to sweets. The project is divided into three parts: hypothesis testing, linear regression modeling, and time series forecasting. All codes in this project have been implemented in R languag.
 
 ---
 
